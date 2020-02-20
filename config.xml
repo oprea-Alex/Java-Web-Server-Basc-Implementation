@@ -1,0 +1,13 @@
+<config log_file="log.txt" log_level="verbose" port_number="12345"
+        path="./default_pages/"
+        bad_request_error_page="400.html" unauthorised_error_page="401.html"
+        file_not_found_error_page="404.html" internal_server_error_page="500.html"
+        not_implemented_error_page="501.html" version_not_supported_page="505.html">
+
+<virtual_host address="127.0.0.1" path="./www1" redirectFrom="/var" redirectTo="/etc/res"
+              default_page="/default_pages/index.html" path_to_pass="/etc/pass/.httppass"/>
+<virtual_host address="127.0.0.2" path="./www2"
+              default_page="/default_pages/index.html"/>
+<virtual_host address="127.0.0.3" path="./server_docs" default_page="index.html"/>
+
+</config>

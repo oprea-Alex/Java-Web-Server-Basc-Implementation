@@ -1,0 +1,693 @@
+2019-12-09T17:26:44.773806	Configuration file parsed
+2019-12-09T17:26:44.778823	Server started
+2019-12-09T17:27:41.534290	Connection from remote host: /127.0.0.1
+2019-12-09T17:27:41.542218	347 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+404 File Not Found
+
+2019-12-09T17:27:41.563287	223 bytes sent
+2019-12-09T17:27:45.257655	Connection from remote host: /127.0.0.1
+2019-12-09T17:27:45.258680	347 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+404 File Not Found
+
+2019-12-09T17:27:45.261125	223 bytes sent
+2019-12-09T17:27:56.194103	Connection from remote host: /127.0.0.1
+2019-12-09T17:27:56.194924	350 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+404 File Not Found
+
+2019-12-09T17:27:56.196537	223 bytes sent
+2019-12-09T17:27:56.303574	Connection from remote host: /127.0.0.1
+2019-12-09T17:27:56.304357	305 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+404 File Not Found
+
+2019-12-09T17:27:56.306842	223 bytes sent
+2019-12-09T17:28:03.394425	Connection from remote host: /127.0.0.1
+2019-12-09T17:28:03.395081	350 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+404 File Not Found
+
+2019-12-09T17:28:03.396934	223 bytes sent
+2019-12-09T17:28:03.706704	Connection from remote host: /127.0.0.1
+2019-12-09T17:28:03.707468	347 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+404 File Not Found
+
+2019-12-09T17:28:03.709389	223 bytes sent
+2019-12-09T17:28:11.793651	Connection from remote host: /127.0.0.1
+2019-12-09T17:28:11.794370	357 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+2019-12-09T17:28:11.796103	200 OK: Resource /hello.html was served.
+2019-12-09T17:28:11.796805	259 bytes sent
+2019-12-09T17:28:11.838744	Connection from remote host: /127.0.0.1
+2019-12-09T17:28:11.839631	312 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+404 File Not Found
+
+2019-12-09T17:28:11.841786	223 bytes sent
+2019-12-09T17:28:51.591980	Connection from remote host: /127.0.0.1
+2019-12-09T17:28:51.592777	357 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+2019-12-09T17:28:51.594110	200 OK: Resource /hello.html was served.
+2019-12-09T17:28:51.594619	259 bytes sent
+2019-12-09T17:28:52.914582	Connection from remote host: /127.0.0.1
+2019-12-09T17:28:52.915300	347 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+404 File Not Found
+
+2019-12-09T17:28:52.916976	223 bytes sent
+2019-12-09T17:28:58.854481	Connection from remote host: /127.0.0.1
+2019-12-09T17:28:58.855260	361 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+404 File Not Found
+
+2019-12-09T17:28:58.858403	223 bytes sent
+2019-12-09T17:28:58.879779	Connection from remote host: /127.0.0.1
+2019-12-09T17:28:58.880625	316 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+404 File Not Found
+
+2019-12-09T17:28:58.883559	223 bytes sent
+2019-12-09T17:29:25.278742	Connection from remote host: /127.0.0.1
+2019-12-09T17:29:25.279460	360 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+2019-12-09T17:29:25.280640	301 Moved Permanently
+2019-12-09T17:29:25.283203	195 bytes sent
+2019-12-09T17:29:25.292662	Connection from remote host: /127.0.0.1
+2019-12-09T17:29:25.293436	364 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+2019-12-09T17:29:25.294559	200 OK: Resource /etc/res/page.html was served.
+2019-12-09T17:29:25.295	262 bytes sent
+2019-12-09T17:29:25.331617	Connection from remote host: /127.0.0.1
+2019-12-09T17:29:25.332807	319 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+404 File Not Found
+
+2019-12-09T17:29:25.337443	223 bytes sent
+2019-12-09T17:30:08.427875	Connection from remote host: /0:0:0:0:0:0:0:1
+2019-12-09T17:30:08.427888	Connection from remote host: /0:0:0:0:0:0:0:1
+2019-12-09T17:30:08.434223	213 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+400 Bad Request: wrong ip address.
+
+2019-12-09T17:30:43.580558	Connection from remote host: /127.0.0.1
+2019-12-09T17:30:43.584068	213 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+404 File Not Found
+
+2019-12-09T17:30:43.590658	223 bytes sent
+2019-12-09T17:30:50.849399	Connection from remote host: /127.0.0.1
+2019-12-09T17:30:50.850911	232 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+404 File Not Found
+
+2019-12-09T17:30:50.857227	223 bytes sent
+2019-12-09T17:35:02.105515	Connection from remote host: /127.0.0.1
+2019-12-09T17:35:02.107723	262 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+404 File Not Found
+
+2019-12-09T17:35:02.110105	223 bytes sent
+2019-12-09T17:35:22.723865	Connection from remote host: /127.0.0.1
+2019-12-09T17:35:22.725009	253 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+404 File Not Found
+
+2019-12-09T17:35:22.728293	223 bytes sent
+2019-12-09T17:35:24.150047	Connection from remote host: /127.0.0.1
+2019-12-09T17:35:24.153036	253 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+404 File Not Found
+
+2019-12-09T17:35:24.155338	223 bytes sent
+2019-12-09T17:36:22.023368	Configuration file parsed
+2019-12-09T17:36:22.031486	Server started
+2019-12-09T17:36:23.241382	Connection from remote host: /127.0.0.1
+2019-12-09T17:36:23.259461	253 bytes received
+	[ERROR]
+Error 406
+
+	[ERROR]
+Error 406
+
+	[ERROR]
+404 File Not Found
+
+2019-12-09T17:41:30.671977	Configuration file parsed
+2019-12-09T17:41:30.693525	Server started
+2019-12-09T17:41:49.601653	Connection from remote host: /127.0.0.1
+2019-12-09T17:41:49.619228	254 bytes received
+2019-12-09T17:42:21.667491	Configuration file parsed
+2019-12-09T17:42:21.675325	Server started
+2019-12-09T17:42:27.834825	Connection from remote host: /127.0.0.1
+2019-12-09T17:42:27.856633	254 bytes received
+2019-12-09T17:43:04.352598	Configuration file parsed
+2019-12-09T17:43:04.359455	Server started
+2019-12-09T17:43:13.570586	Connection from remote host: /127.0.0.1
+2019-12-09T17:43:13.593175	254 bytes received
+2019-12-09T17:47:10.836312	Configuration file parsed
+2019-12-09T17:47:10.845416	Server started
+2019-12-09T17:47:12.026986	Connection from remote host: /127.0.0.1
+2019-12-09T17:47:12.052548	248 bytes received
+	[ERROR]
+401:Unauthorized request
+
+2019-12-09T17:47:34.206315	293 bytes sent
+2019-12-09T17:49:56.222906	Configuration file parsed
+2019-12-09T17:49:56.241069	Server started
+2019-12-09T17:50:16.371989	Connection from remote host: /127.0.0.1
+2019-12-09T17:50:16.394322	248 bytes received
+	[ERROR]
+401:Unauthorized request
+
+2019-12-09T17:51:16.255687	293 bytes sent
+2019-12-09T17:51:21.126824	Connection from remote host: /127.0.0.1
+2019-12-09T17:51:21.128934	248 bytes received
+	[ERROR]
+401:Unauthorized request
+
+2019-12-09T17:51:28.815677	293 bytes sent
+2019-12-09T17:51:35.861816	Configuration file parsed
+2019-12-09T17:51:35.874539	Server started
+2019-12-09T17:51:41.049329	Connection from remote host: /127.0.0.1
+2019-12-09T17:51:41.072121	248 bytes received
+	[ERROR]
+401:Unauthorized request
+
+2019-12-09T17:52:50.673750	293 bytes sent
+2019-12-09T17:52:54.299966	Configuration file parsed
+2019-12-09T17:52:54.308213	Server started
+2019-12-09T17:53:04.187308	Configuration file parsed
+2019-12-09T17:53:04.201298	Server started
+2019-12-09T17:53:08.116145	Connection from remote host: /127.0.0.1
+2019-12-09T17:53:08.137803	248 bytes received
+	[ERROR]
+401:Unauthorized request
+
+2019-12-09T17:57:30.147039	Configuration file parsed
+2019-12-09T17:57:30.164791	Server started
+2019-12-09T17:57:33.699788	Connection from remote host: /127.0.0.1
+2019-12-09T17:57:33.725452	248 bytes received
+	[ERROR]
+401:Unauthorized request
+
+2019-12-09T17:58:10.909576	293 bytes sent
+2019-12-09T17:58:26.502711	Configuration file parsed
+2019-12-09T17:58:26.512111	Server started
+2019-12-09T17:58:38.465559	Connection from remote host: /127.0.0.1
+2019-12-09T17:58:38.493131	248 bytes received
+	[ERROR]
+401:Unauthorized request
+
+2019-12-09T17:59:21.952770	Configuration file parsed
+2019-12-09T17:59:21.962605	Server started
+2019-12-09T17:59:25.696562	Connection from remote host: /127.0.0.1
+2019-12-09T17:59:25.721773	248 bytes received
+	[ERROR]
+Error 406
+
+2019-12-09T18:00:12.275030	200 OK: Resource /hello.html was served.
+2019-12-09T18:00:12.531627	259 bytes sent
+2019-12-09T18:02:39.279304	Configuration file parsed
+2019-12-09T18:02:39.302557	Server started
+2019-12-09T18:02:42.050215	Connection from remote host: /127.0.0.1
+2019-12-09T18:02:42.074508	248 bytes received
+2019-12-09T18:03:29.302170	200 OK: Resource /hello.html was served.
+2019-12-09T18:03:30.636462	259 bytes sent
+2019-12-09T18:03:52.651736	Configuration file parsed
+2019-12-09T18:03:52.659500	Server started
+2019-12-09T18:03:55.047868	Connection from remote host: /127.0.0.1
+2019-12-09T18:03:55.058177	248 bytes received
+2019-12-09T18:03:55.068351	200 OK: Resource /hello.html was served.
+2019-12-09T18:03:55.079815	259 bytes sent
+2019-12-09T18:27:51.481994	Configuration file parsed
+2019-12-09T18:27:51.492956	Server started
+2019-12-09T18:28:31.203837	Connection from remote host: /127.0.0.1
+2019-12-09T18:28:31.223726	285 bytes received
+2019-12-09T18:29:19.045722	200 OK: Resource /hello.html was served.
+2019-12-09T18:29:19.294291	259 bytes sent
+2019-12-09T19:02:32.508810700	Configuration file parsed
+2019-12-09T19:02:32.522913700	Server started
+2019-12-09T19:02:38.833101500	Connection from remote host: /127.0.0.1
+2019-12-09T19:02:38.871270	365 bytes received
+2019-12-09T19:02:38.893462700	200 OK: Resource /etc/res/page.html was served.
+2019-12-09T19:02:38.908652500	262 bytes sent
+2019-12-09T19:29:14.143288700	Configuration file parsed
+2019-12-09T19:29:14.181315800	Server started
+2019-12-09T19:29:25.922532100	Connection from remote host: /127.0.0.1
+2019-12-09T19:29:25.936764200	248 bytes received
+	[ERROR]
+400 Bad Request: wrong ip address.
+
+2019-12-09T20:40:29.700987300	Configuration file parsed
+2019-12-09T20:40:29.707260900	Server started listening on port 12345
+2019-12-09T20:40:33.568574300	Connection from remote host: /127.0.0.1
+2019-12-09T20:40:33.578547900	248 bytes received
+	[ERROR]
+400 Bad Request: wrong ip address.
+
+2019-12-09T20:40:33.598496500	436 bytes sent
+2019-12-09T20:40:44.700836400	Connection from remote host: /127.0.0.1
+2019-12-09T20:40:44.703828900	Connection from remote host: /127.0.0.1
+2019-12-09T20:40:44.725770800	825 bytes received
+	[ERROR]
+404 File Not Found
+
+2019-12-09T20:40:44.752702300	161 bytes sent
+2019-12-09T20:40:44.832485500	Connection from remote host: /127.0.0.1
+2019-12-09T20:40:48.008208900	830 bytes received
+2019-12-09T20:40:48.036133700	200 OK: Resource /etc/res/page.html was served.
+2019-12-09T20:40:48.044112600	262 bytes sent
+2019-12-09T20:40:53.450541500	Connection from remote host: /127.0.0.1
+2019-12-09T20:40:53.451539100	Connection from remote host: /127.0.0.1
+2019-12-09T20:40:53.467497800	516 bytes received
+	[ERROR]
+400 Bad Request: wrong ip address.
+
+2019-12-09T20:40:53.490433500	436 bytes sent
+2019-12-09T20:40:53.642029600	439 bytes received
+	[ERROR]
+400 Bad Request: wrong ip address.
+
+2019-12-09T20:40:53.658983700	436 bytes sent
+2019-12-09T20:41:26.904333100	Connection from remote host: /127.0.0.1
+2019-12-09T20:41:26.904333100	Connection from remote host: /127.0.0.1
+2019-12-09T20:41:26.921286400	541 bytes received
+	[ERROR]
+400 Bad Request: wrong ip address.
+
+2019-12-09T20:41:26.933255100	453 bytes sent
+2019-12-09T20:41:27.010049200	439 bytes received
+	[ERROR]
+400 Bad Request: wrong ip address.
+
+2019-12-09T20:41:27.024010900	453 bytes sent
+2019-12-09T20:42:31.277852800	Connection from remote host: /127.0.0.1
+2019-12-09T20:42:31.278849800	Connection from remote host: /127.0.0.1
+2019-12-09T20:42:31.444407100	735 bytes received
+	[ERROR]
+404 File Not Found
+
+2019-12-09T20:42:31.456374800	161 bytes sent
+2019-12-09T20:42:45.324085300	Connection from remote host: /127.0.0.1
+2019-12-09T20:42:45.332063200	248 bytes received
+	[ERROR]
+400 Bad Request: wrong ip address.
+
+2019-12-09T20:42:45.347023400	453 bytes sent
+2019-12-09T20:43:10.332168	Connection from remote host: /127.0.0.1
+2019-12-09T20:43:10.340148400	248 bytes received
+	[ERROR]
+400 Bad Request: wrong ip address.
+
+2019-12-09T20:43:10.354109100	453 bytes sent
+2019-12-09T20:43:21.964272800	Connection from remote host: /127.0.0.1
+2019-12-09T20:43:21.973251100	248 bytes received
+2019-12-09T20:43:21.986212900	200 OK: Resource /hello.html was served.
+2019-12-09T20:43:21.992199100	267 bytes sent
+2019-12-09T20:43:57.364012300	Connection from remote host: /127.0.0.1
+2019-12-09T20:43:57.381963900	251 bytes received
+2019-12-09T20:43:57.418987900	301 Moved Permanently
+2019-12-09T20:43:57.425968600	197 bytes sent
+2019-12-09T20:43:57.429959700	Connection from remote host: /127.0.0.1
+2019-12-09T20:43:57.438933500	307 bytes received
+2019-12-09T20:43:57.443919800	200 OK: Resource /etc/res/photo.jpg was served.
+2019-12-09T20:43:57.450901600	45583 bytes sent
+2019-12-09T20:44:04.389759900	Connection from remote host: /127.0.0.1
+2019-12-09T20:44:04.390756800	Connection from remote host: /127.0.0.1
+2019-12-09T20:44:04.405717	789 bytes received
+2019-12-09T20:44:04.412698200	301 Moved Permanently
+2019-12-09T20:44:04.418680700	197 bytes sent
+2019-12-09T20:44:04.422671500	793 bytes received
+2019-12-09T20:44:04.432645800	200 OK: Resource /etc/res/photo.jpg was served.
+2019-12-09T20:44:04.438627	45583 bytes sent
+2019-12-09T20:49:28.002608900	Configuration file parsed
+2019-12-09T20:49:28.018229400	Server started listening on port 12345
+2019-12-09T20:49:31.327111	Connection from remote host: /127.0.0.1
+2019-12-09T20:49:31.338081800	251 bytes received
+2019-12-09T20:49:31.351046300	301 Moved Permanently
+2019-12-09T20:49:31.366008700	197 bytes sent
+2019-12-09T20:49:31.369997300	Connection from remote host: /127.0.0.1
+2019-12-09T20:49:31.379970800	307 bytes received
+2019-12-09T20:49:31.386951700	200 OK: Resource /etc/res/photo.jpg was served.
+2019-12-09T20:49:31.393932500	45583 bytes sent
+2019-12-09T20:49:58.326691500	Connection from remote host: /127.0.0.1
+2019-12-09T20:49:58.333674200	248 bytes received
+2019-12-09T20:49:58.341648600	200 OK: Resource /hello.html was served.
+2019-12-09T20:49:58.349630200	267 bytes sent
+2019-12-09T20:55:02.340363200	Configuration file parsed
+2019-12-09T20:55:02.365296100	Server started listening on port 12345
+2019-12-09T20:55:14.126729800	Connection from remote host: /127.0.0.1
+2019-12-09T20:55:14.191564300	244 bytes received
+	[ERROR]
+401:Unauthorized request
+
+2019-12-09T20:55:31.902817200	301 bytes sent
+2019-12-09T20:55:53.398311700	Configuration file parsed
+2019-12-09T20:55:53.413931700	Server started listening on port 12345
+2019-12-09T20:55:56.987095200	Connection from remote host: /127.0.0.1
+2019-12-09T20:55:57.004051800	244 bytes received
+	[ERROR]
+401:Unauthorized request
+
+2019-12-09T20:57:24.142072600	Configuration file parsed
+2019-12-09T20:57:24.194931400	Server started listening on port 12345
+2019-12-09T20:57:27.104532700	Connection from remote host: /127.0.0.1
+2019-12-09T20:57:27.118494800	244 bytes received
+2019-12-09T20:57:55.098932100	200 OK: Resource /hello.html was served.
+2019-12-09T20:58:40.030447200	Configuration file parsed
+2019-12-09T20:58:40.046068400	Server started listening on port 12345
+2019-12-09T20:58:44.321984200	Connection from remote host: /127.0.0.1
+2019-12-09T20:58:44.329961	244 bytes received
+2019-12-09T20:58:44.345919100	200 OK: Resource /hello.html was served.
+2019-12-09T20:58:44.358719900	267 bytes sent
+2019-12-09T21:20:56.398938	Configuration file parsed
+2019-12-09T21:20:56.414395	Server started listening on port 12345
+2019-12-09T21:21:06.418135	Connection from remote host: /127.0.0.1
+2019-12-09T21:21:06.428974	347 bytes received
+2019-12-09T21:21:31.121348	Connection from remote host: /127.0.0.1
+2019-12-09T21:21:31.863348	Connection from remote host: /127.0.0.1
+2019-12-09T21:21:32.146836	347 bytes received
+2019-12-09T21:21:32.146517	Connection from remote host: /127.0.0.1
+2019-12-09T21:21:32.316405	356 bytes received
+2019-12-09T21:21:32.479303	356 bytes received
+	[ERROR]
+404 File Not Found
+
+	[ERROR]
+404 File Not Found
+
+	[ERROR]
+404 File Not Found
+
+	[ERROR]
+404 File Not Found
+
+2019-12-09T21:21:33.016291	161 bytes sent
+2019-12-09T21:21:33.017105	161 bytes sent
+2019-12-09T21:21:33.026698	161 bytes sent
+2019-12-09T21:21:33.338164	161 bytes sent
+2019-12-09T21:30:20.970923	Configuration file parsed
+2019-12-09T21:30:20.988885	Server started listening on port 12345
+2019-12-09T21:30:24.907194	Connection from remote host: /127.0.0.1
+2019-12-09T21:30:24.910459	347 bytes received
+	[ERROR]
+404 File Not Found
+
+2019-12-09T21:30:24.926924	161 bytes sent
+2019-12-09T21:30:30.415554	Connection from remote host: /127.0.0.1
+2019-12-09T21:30:30.416219	347 bytes received
+	[ERROR]
+404 File Not Found
+
+2019-12-09T21:30:30.417742	161 bytes sent
+2019-12-09T21:30:34.979256	Connection from remote host: /127.0.0.1
+2019-12-09T21:30:34.980115	347 bytes received
+	[ERROR]
+404 File Not Found
+
+2019-12-09T21:30:34.981658	161 bytes sent
+2019-12-09T21:30:35.230165	Connection from remote host: /127.0.0.1
+2019-12-09T21:30:35.230900	356 bytes received
+	[ERROR]
+404 File Not Found
+
+2019-12-09T21:30:35.246461	161 bytes sent
+2019-12-09T21:30:36.023899	Connection from remote host: /127.0.0.1
+2019-12-09T21:30:36.027254	356 bytes received
+	[ERROR]
+404 File Not Found
+
+2019-12-09T21:30:36.036133	161 bytes sent
+2019-12-09T21:31:09.897290	Configuration file parsed
+2019-12-09T21:31:09.924083	Server started listening on port 12345
+2019-12-09T21:31:12.421197	Configuration file parsed
+2019-12-09T21:31:12.495553	Server started listening on port 12345
+	[ERROR]
+Couldn't connect: Address already in use
+
+2019-12-09T21:31:12.984451	Connection from remote host: /127.0.0.1
+2019-12-09T21:31:12.992968	356 bytes received
+	[ERROR]
+404 File Not Found
+
+2019-12-09T21:31:13.081187	161 bytes sent
+2019-12-09T21:31:23.757641	Configuration file parsed
+2019-12-09T21:31:23.783760	Server started listening on port 12345
+2019-12-09T21:32:11.670812	Connection from remote host: /127.0.0.1
+2019-12-09T21:32:11.679198	356 bytes received
+2019-12-09T21:34:00.776646	Configuration file parsed
+2019-12-09T21:34:00.788018	Server started listening on port 12345
+2019-12-09T21:34:03.771700	Connection from remote host: /127.0.0.1
+2019-12-09T21:34:03.774830	356 bytes received
+	[ERROR]
+404 File Not Found
+
+2019-12-09T21:34:03.803436	161 bytes sent
+2019-12-09T21:39:53.436343	Configuration file parsed
+2019-12-09T21:39:53.466676	Server started listening on port 12345
+2019-12-09T21:39:56.111928	Connection from remote host: /127.0.0.1
+2019-12-09T21:39:56.116684	356 bytes received
+	[ERROR]
+404 File Not Found
+
+2019-12-09T21:39:56.157445	161 bytes sent
+2019-12-09T21:41:09.190751	Configuration file parsed
+2019-12-09T21:41:09.220931	Server started listening on port 12345
+2019-12-09T21:41:13.263691	Connection from remote host: /127.0.0.1
+2019-12-09T21:41:13.280765	356 bytes received
+2019-12-09T21:42:24.366267	200 OK: Resource /login.php was served.
+2019-12-09T21:42:24.399613	1235 bytes sent
+2019-12-09T21:42:27.545471	Configuration file parsed
+2019-12-09T21:42:27.571084	Server started listening on port 12345
+2019-12-09T21:44:48.748372	Connection from remote host: /127.0.0.1
+2019-12-09T21:44:48.758706	347 bytes received
+	[ERROR]
+404 File Not Found
+
+2019-12-09T21:44:48.783706	161 bytes sent
+2019-12-09T21:44:52.687587	Connection from remote host: /127.0.0.1
+2019-12-09T21:44:52.688149	347 bytes received
+	[ERROR]
+404 File Not Found
+
+2019-12-09T21:44:52.689875	161 bytes sent
+2019-12-09T21:44:54.713568	Connection from remote host: /127.0.0.1
+2019-12-09T21:44:54.714463	356 bytes received
+2019-12-09T21:44:54.729479	200 OK: Resource /login.php was served.
+2019-12-09T21:44:54.730371	1235 bytes sent
+2019-12-09T21:44:55.132836	Connection from remote host: /127.0.0.1
+2019-12-09T21:44:55.133463	356 bytes received
+2019-12-09T21:44:55.139250	200 OK: Resource /login.php was served.
+2019-12-09T21:44:55.139764	1235 bytes sent
+2019-12-09T21:48:45.694411	Configuration file parsed
+2019-12-09T21:48:45.723424	Server started listening on port 12345
+2019-12-09T21:48:51.335493	Configuration file parsed
+2019-12-09T21:48:51.357285	Server started listening on port 12345
+	[ERROR]
+Couldn't connect: Address already in use
+
+2019-12-09T21:48:56.283134	Connection from remote host: /127.0.0.1
+2019-12-09T21:48:56.290756	347 bytes received
+	[ERROR]
+404 File Not Found
+
+2019-12-09T21:48:56.348235	161 bytes sent
+2019-12-09T21:49:02.212854	Connection from remote host: /127.0.0.1
+2019-12-09T21:49:02.213498	347 bytes received
+	[ERROR]
+404 File Not Found
+
+2019-12-09T21:49:02.215135	161 bytes sent
+2019-12-09T21:49:07.212332	Connection from remote host: /127.0.0.1
+2019-12-09T21:49:07.213234	356 bytes received
+2019-12-09T21:49:21.517896	Connection from remote host: /127.0.0.1
+2019-12-09T21:49:21.519988	356 bytes received
+2019-12-09T21:49:22.619912	200 OK: Resource /login.php was served.
+2019-12-09T21:49:22.620975	1235 bytes sent
+2019-12-09T21:49:24.134143	200 OK: Resource /login.php was served.
+2019-12-09T21:49:24.717140	1235 bytes sent
+2019-12-09T21:49:33.903286	Configuration file parsed
+2019-12-09T21:49:33.915524	Server started listening on port 12345
+2019-12-09T21:49:35.103431	Connection from remote host: /127.0.0.1
+2019-12-09T21:49:35.108420	356 bytes received
+2019-12-09T21:49:35.141450	200 OK: Resource /login.php was served.
+2019-12-09T21:49:35.159001	1235 bytes sent
+2019-12-09T21:50:18.303575	Configuration file parsed
+2019-12-09T21:50:18.326384	Server started listening on port 12345
+2019-12-09T21:50:21.547921	Connection from remote host: /127.0.0.1
+2019-12-09T21:50:21.556060	356 bytes received
+2019-12-09T21:50:59.176265	Configuration file parsed
+2019-12-09T21:50:59.196528	Server started listening on port 12345
+2019-12-09T21:51:04.001646	Connection from remote host: /127.0.0.1
+2019-12-09T21:51:04.009826	356 bytes received
+2019-12-09T21:51:41.626742	Configuration file parsed
+2019-12-09T21:51:41.660365	Server started listening on port 12345
+2019-12-09T21:51:46.090329	Connection from remote host: /127.0.0.1
+2019-12-09T21:51:46.100370	356 bytes received
+2019-12-09T21:55:52.782360	200 OK: Resource /login.php was served.
+2019-12-09T21:58:29.331374	Configuration file parsed
+2019-12-09T21:58:29.353826	Server started listening on port 12345
+2019-12-09T21:58:32.679694	Connection from remote host: /127.0.0.1
+2019-12-09T21:58:32.691021	356 bytes received
+2019-12-09T21:58:57.022162	Configuration file parsed
+2019-12-09T21:58:57.046655	Server started listening on port 12345
+2019-12-09T21:59:12.771002	Connection from remote host: /127.0.0.1
+2019-12-09T21:59:12.781396	356 bytes received
+2019-12-09T22:00:53.292944	Configuration file parsed
+2019-12-09T22:00:53.310170	Server started listening on port 12345
+2019-12-09T22:00:59.206325	Connection from remote host: /127.0.0.1
+2019-12-09T22:00:59.217240	356 bytes received
+2019-12-09T22:02:09.904813	200 OK: Resource /login.php was served.
+2019-12-09T22:02:09.936990	1235 bytes sent
+2019-12-09T22:02:15.087131	Configuration file parsed
+2019-12-09T22:02:15.114553	Server started listening on port 12345
+2019-12-09T22:02:21.272435	Connection from remote host: /127.0.0.1
+2019-12-09T22:02:21.279133	356 bytes received
+2019-12-09T22:02:46.407613	Configuration file parsed
+2019-12-09T22:02:46.423594	Server started listening on port 12345
+2019-12-09T22:02:54.454894	Connection from remote host: /127.0.0.1
+2019-12-09T22:02:54.475618	356 bytes received
+2019-12-09T22:03:33.061094	Configuration file parsed
+2019-12-09T22:03:33.087494	Server started listening on port 12345
+2019-12-09T22:03:34.128847	Connection from remote host: /127.0.0.1
+2019-12-09T22:03:34.136779	356 bytes received
+2019-12-09T22:03:34.315486	200 OK: Resource /login.php was served.
+2019-12-09T22:03:34.325504	1235 bytes sent
+2019-12-09T22:07:19.031442	Configuration file parsed
+2019-12-09T22:07:19.071087	Server started listening on port 12345
+2019-12-09T22:07:53.912327	Connection from remote host: /127.0.0.1
+2019-12-09T22:07:53.923144	356 bytes received
